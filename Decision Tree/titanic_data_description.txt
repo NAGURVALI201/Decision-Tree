@@ -1,0 +1,25 @@
+Context
+I took the titanic test file and the gender_submission and put them together in excel to make a csv. This is great for making charts to help you visualize. This also will help you know who died or survived. At least 70% right, but its up to you to make it 100% Thanks to the titanic beginners competitions for providing with the data. Please Upvote my dataset, it will mean a lot to me. Thank you!
+
+source:
+This dataset is available in UCI machine learning repositary.
+
+features:
+1.Pclass (The type of class in which passengers reside)
+2.Sex (person gender)
+3.Age (age of the person)
+4.Fare (ticket fare)
+5.Sibsp (number of siblings)
+6.Parch (number of parents / children aboard the Titanic)
+7.Embarcked ( where the passenger embarked the Titanic ) 
+
+label:
+8.label (The person alive or dead)
+* 1 means alive. 
+* 0 means dead.
+
+
+SHAPE OF DATASET:
+* 8 COLUMNS
+* 892 ROWS
+(892,8)
